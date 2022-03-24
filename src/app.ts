@@ -63,7 +63,6 @@ class ProjectState extends State<Project> {
     );
     this.projects.push(newProject);
     this.updateListeners();
-
   }
 
   moveProject(projectId: string, newStatus: ProjectStatus){
