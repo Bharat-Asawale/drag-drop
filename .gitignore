@@ -1,3 +1,5 @@
 # this are the ignored files 
 node_modules
 check
+package-lock.json
+dist
